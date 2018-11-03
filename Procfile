@@ -1,1 +1,1 @@
-worker node bot.js
+ezyalts: node broadcast.js
